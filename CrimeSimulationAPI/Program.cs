@@ -2,7 +2,7 @@ var builder = WebApplication.CreateBuilder(args);
 var app = builder.Build();
 
 app.MapGet("/", () => new {
-    status = "Crime Simulation API is running ✅",
+    status = "Crime Simulation API is running ✅ -  DevOps Pipeline Working! ✅",
     version = "1.0.0",
     timestamp = DateTime.UtcNow
 });
