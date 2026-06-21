@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CrimeSimulationAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+664384a66a8578b83f7e1884637b2feb83a4dd2a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5032c0f304451b3f3ebb242b10800ad5dd70c495")]
 [assembly: System.Reflection.AssemblyProductAttribute("CrimeSimulationAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CrimeSimulationAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
